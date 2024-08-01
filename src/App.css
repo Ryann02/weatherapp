@@ -1,4 +1,4 @@
-/* Mengatur latar belakang aplikasi */
+
 .App {
   height: 100vh;
   background-image: url(../image/1.jpg);
@@ -7,7 +7,6 @@
   background-size: cover;
 }
 
-/* Menambahkan gaya untuk kotak cuaca */
 .weather-container {
   max-width: 400px;
   background-color: rgba(90, 178, 250, 0.651);
