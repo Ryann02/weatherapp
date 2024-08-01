@@ -10,7 +10,7 @@ cd weather-app
   http://localhost:3000
 
   #Fitur
-   Menggunakan JSX dan komponen React: Aplikasi ini dibangun menggunakan sintaks JSX dan komponen React untuk struktur kode yang modular dan mudah dipelihara.
+- Menggunakan JSX dan komponen React: Aplikasi ini dibangun menggunakan sintaks JSX dan komponen React untuk struktur kode yang modular dan mudah dipelihara.
 - Props dan events untuk komunikasi antar komponen: Komunikasi antara komponen dilakukan menggunakan props dan events.
 Formulir dan validasi: Aplikasi ini mencakup formulir sederhana dengan validasi untuk memastikan kota dimasukkan sebelum melakukan pencarian.
 - Integrasi API publik dengan AJAX: Data cuaca diambil dari API OpenWeatherMap menggunakan Axios.
